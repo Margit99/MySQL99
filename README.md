@@ -1,3 +1,8 @@
+![image](https://user-images.githubusercontent.com/119622039/205734832-6f41df8e-040b-4fe8-beac-0568316969b7.png)
+
+
+**Project Background**
+
 Rockbuster Stealth LLC is a movie rental company that used to have stores around the
 world. Facing stiff competition from streaming services such as Netflix and Amazon Prime,
 the Rockbuster Stealth management team is planning to use its existing movie licenses to
@@ -10,7 +15,8 @@ management system. I Then used SQL to analyze the data and answer any
 ad-hoc business questions that other departments had.
 
 
-Key Questions and Objectives
+**Key Questions and Objectives**
+
 The Rockbuster Stealth Management Board has asked the following questions and
 they expect data-driven answers that they can use for their 2020 company strategy. 
 
@@ -24,8 +30,8 @@ they expect data-driven answers that they can use for their 2020 company strateg
 
 ● Do sales figures vary between geographic regions?
 
-Data Set
+***Data Set***
 - http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip
 
-Tableau Report 
+***Tableau Report*** 
 - https://public.tableau.com/app/profile/martha.n7379/viz/RockbusterPresentation_16668671151000/RockbusterAnalysis?publish=yes
