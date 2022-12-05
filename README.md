@@ -21,5 +21,6 @@ they expect data-driven answers that they can use for their 2020 company strateg
 
 Data Set
 - http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip
+
 Tableau Report 
 - https://public.tableau.com/app/profile/martha.n7379/viz/RockbusterPresentation_16668671151000/RockbusterAnalysis?publish=yes
