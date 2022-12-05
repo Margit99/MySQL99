@@ -13,10 +13,15 @@ ad-hoc business questions that other departments had.
 Key Questions and Objectives
 The Rockbuster Stealth Management Board has asked the following questions and
 they expect data-driven answers that they can use for their 2020 company strategy. 
+
 ● Which movies contributed the most/least to revenue gain?
+
 ● What was the average rental duration for all videos?
-● Which countries are Rockbuster customers based i n?
-● Where are customers with a high l ifetime value based?
+
+● Which countries are Rockbuster customers based in?
+
+● Where are customers with a high lifetime value based?
+
 ● Do sales figures vary between geographic regions?
 
 Data Set
