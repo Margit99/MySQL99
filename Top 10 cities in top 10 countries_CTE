@@ -7,3 +7,4 @@ WHERE D.country IN ('India','China','United States','Japan','Mexico','Brazil','R
 GROUP BY city
 ORDER BY number_of_customers DESC
 Limit 10
+ 
