@@ -6,3 +6,4 @@ FROM film A
 GROUP BY film_title
 ORDER BY total_revenue ASC
 LIMIT 5;
+ 
