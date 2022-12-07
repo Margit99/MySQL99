@@ -5,4 +5,4 @@ FROM film A
 	INNER JOIN payment D ON C.customer_id = D.customer_id
 GROUP BY film_title
 ORDER BY total_revenue DESC
-LIMIT 5;
+LIMIT 5; 
