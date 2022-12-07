@@ -7,3 +7,4 @@ INNER JOIN country D ON C.country_ID = D.country_ID
 GROUP BY country
 ORDER BY number_of_customers DESC
 LIMIT 10
+ 
