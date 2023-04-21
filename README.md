@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/119622039/205734832-6f41df8e-040b-4fe8-beac-0568316969b7.png)
 
 
-**Project Background** 
+**Project Background**   
 
 Rockbuster Stealth LLC is a movie rental company that used to have stores around the
 world. Facing stiff competition from streaming services such as Netflix and Amazon Prime,
